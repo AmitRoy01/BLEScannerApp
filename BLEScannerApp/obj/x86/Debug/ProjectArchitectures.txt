@@ -1,0 +1,1 @@
+E:\UWP Practice\BLEScannerApp\BLEScannerApp\BLEScannerApp.csproj;x86
