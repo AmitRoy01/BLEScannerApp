@@ -8,11 +8,23 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
    
+    <!--<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="StartServerButton" Content="Start Server" Click="StartServerButton_Click" Width="200" Margin="10"/>
+            <Button x:Name="StopServerButton" Content="Stop Server" Click="StopServerButton_Click" Width="200" Margin="10" IsEnabled="False"/>
+            <TextBlock x:Name="StatusText" Text="Server Not Running" HorizontalAlignment="Center" Margin="10"/>
+        </StackPanel>
+    </Grid>-->
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <Button x:Name="StartServerButton" Content="Start Server" Click="StartServerButton_Click" Width="200" Margin="10"/>
             <Button x:Name="StopServerButton" Content="Stop Server" Click="StopServerButton_Click" Width="200" Margin="10" IsEnabled="False"/>
             <TextBlock x:Name="StatusText" Text="Server Not Running" HorizontalAlignment="Center" Margin="10"/>
+            <TextBlock x:Name="ConnectedClientsText" Text="Connected Clients: 0" HorizontalAlignment="Center" Margin="10"/>
+            <TextBox x:Name="ReceivedTextBox" Width="300" Height="100" Margin="10" IsReadOnly="True" AcceptsReturn="True"/>
+            <TextBox x:Name="SendTextBox" Width="300" Height="40" Margin="10"/>
+            <Button x:Name="SendButton" Content="Send Data" Click="SendButton_Click" Width="200" Margin="10" IsEnabled="False"/>
         </StackPanel>
     </Grid>
 </Page>
