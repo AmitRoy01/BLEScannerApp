@@ -1,0 +1,1 @@
+E:\UWP Practice\BLE\BLEServer1\BLEServer1\BLEServer1.csproj;x86

@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="BLEScannerApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BLEScannerApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Padding="20">
+        <StackPanel>
+            <TextBlock Text="BLE Scanner" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Start Scan" Click="StartScan_Click" Margin="5"/>
+                <Button Content="Stop Scan" Click="StopScan_Click" Margin="5"/>
+            </StackPanel>
+
+            <ListView x:Name="DeviceList">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="{Binding}" FontSize="18"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>
