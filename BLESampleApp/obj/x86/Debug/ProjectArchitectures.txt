@@ -1,0 +1,1 @@
+E:\UWP Practice\BLE\BLESampleApp\BLESampleApp\BLESampleApp.csproj;x86
