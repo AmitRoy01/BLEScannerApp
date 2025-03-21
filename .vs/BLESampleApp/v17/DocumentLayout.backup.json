@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\UWP Practice\\BLE\\BLESampleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\bleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,8 +47,7 @@
               "ViewState": "AgIAAGIAAAAAAAAAAAAqwHEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T15:36:02.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "BLESampleApp\\MainPage.xaml.cs",
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\MainPage.xaml.cs",
               "RelativeToolTip": "BLESampleApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAswO8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAADwv+4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T15:34:16.086Z",
               "IsPinned": true,
@@ -74,8 +73,7 @@
               "RelativeToolTip": "BLESampleApp\\BLEServer.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAmwJ4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:35:21.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:35:21.321Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\MainPage.xaml",
               "RelativeToolTip": "BLESampleApp\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T15:31:56.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:31:56.922Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "BLESampleApp\\BLEClient.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAiwHYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:04:44.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:04:44.102Z"
             },
             {
               "$type": "Document",

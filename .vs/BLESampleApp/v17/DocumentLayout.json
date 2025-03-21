@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\UWP Practice\\BLE\\BLESampleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\blescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\bleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\bleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\bleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|e:\\uwp practice\\ble\\blesampleapp\\blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|solutionrelative:blesampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC99346-F080-4B24-B373-8440566FEF85}|BLESampleApp\\BLESampleApp.csproj|E:\\UWP Practice\\BLE\\BLESampleApp\\blesampleapp\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BLEScanner.cs",
               "DocumentMoniker": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEScanner.cs",
               "RelativeDocumentMoniker": "BLESampleApp\\BLEScanner.cs",
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEScanner.cs",
               "RelativeToolTip": "BLESampleApp\\BLEScanner.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T15:36:02.667Z",
               "IsPinned": true,
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "BLESampleApp\\MainPage.xaml.cs",
@@ -66,38 +66,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BLEServer.cs",
               "DocumentMoniker": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEServer.cs",
               "RelativeDocumentMoniker": "BLESampleApp\\BLEServer.cs",
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEServer.cs",
               "RelativeToolTip": "BLESampleApp\\BLEServer.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJ4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T15:35:21.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "BLESampleApp\\MainPage.xaml",
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\MainPage.xaml",
               "RelativeToolTip": "BLESampleApp\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T15:31:56.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:31:56.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BLEClient.cs",
               "DocumentMoniker": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEClient.cs",
               "RelativeDocumentMoniker": "BLESampleApp\\BLEClient.cs",
               "ToolTip": "E:\\UWP Practice\\BLE\\BLESampleApp\\BLESampleApp\\BLEClient.cs",
               "RelativeToolTip": "BLESampleApp\\BLEClient.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAiwHYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAHYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:04:44.102Z",
               "EditorCaption": ""
