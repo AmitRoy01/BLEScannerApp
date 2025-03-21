@@ -1,0 +1,3 @@
+[submodule "BLESampleApp_2"]
+	path = BLESampleApp_2
+	url = https://github.com/AmitRoy01/BLE_APP.git
